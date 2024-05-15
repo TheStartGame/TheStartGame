@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
-- 📸 Photographe ➜ Instagram 
-- 🎥 Monteur vidéo ➜ YouTube 
-- 👨‍💻 Gestion serveurs Discord
+- 📸 Photographer ➜ Instagram 
+- 🎥 Video editor ➜ YouTube 
+- 👨‍💻 Discord server management
   
 <!--
 **TheStartGame/TheStartGame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
